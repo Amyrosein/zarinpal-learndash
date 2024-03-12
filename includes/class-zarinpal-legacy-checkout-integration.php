@@ -272,7 +272,7 @@ class LearnDash_Zarinpal_Legacy_Checkout_Integration
                 $_SESSION['sfwd-lms-tx'] = 'پرداخت لغو شد';
             }
         }
-        $data        = '<div style="text-align: center;border: 3px solid Green;padding: 30px ;margin: 50px;border-radius: 15px"><p style="font-size: 1.5em">' . $_SESSION['sfwd-lms-tx'] . '</p></div>
+        $data        = '<div style="text-align: center;border: 3px solid Green;padding: 20px ;margin: 35px;border-radius: 15px"><p style="font-size: 1.5em">' . $_SESSION['sfwd-lms-tx'] . '</p></div>
 			<div style="text-align: center;">
 			<a style=";padding: 15px 35px; background: greenyellow; color: black; text-decoration: none; border:dashed 2px blue; border-radius: 20px; font-size: 2em" href="' . $_SESSION['course_link'] . '"> برگشت به دوره </a>
 </div>';
