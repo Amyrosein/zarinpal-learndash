@@ -5,7 +5,7 @@
  * Description: درگاه پرداخت زرین پال برای افزونه لرن دش LearnDash
  * Version: 2.0.1
  * Author: Amirhossein Taghizadeh
- * Author URI: http://www.Amyrosein.ir/
+ * Author URI: http://www.AmirTz.ir/
  * Text Domain: leandash-for-zarinpal
  * Domain Path: languages
  */
